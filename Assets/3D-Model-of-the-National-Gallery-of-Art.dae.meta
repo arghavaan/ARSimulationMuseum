@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: 333ea0ebed065ff46953693c7a2cc144
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Brep
+    100004: Brep 1
+    100006: Brep 10
+    100008: Brep 11
+    100010: Brep 12
+    100012: Brep 13
+    100014: Brep 14
+    100016: Brep 15
+    100018: Brep 16
+    100020: Brep 2
+    100022: Brep 3
+    100024: Brep 4
+    100026: Brep 5
+    100028: Brep 6
+    100030: Brep 7
+    100032: Brep 8
+    100034: Brep 9
+    100036: Extrusion
+    100038: Extrusion 1
+    100040: Extrusion 10
+    100042: Extrusion 11
+    100044: Extrusion 12
+    100046: Extrusion 13
+    100048: Extrusion 14
+    100050: Extrusion 15
+    100052: Extrusion 16
+    100054: Extrusion 17
+    100056: Extrusion 18
+    100058: Extrusion 19
+    100060: Extrusion 2
+    100062: Extrusion 20
+    100064: Extrusion 21
+    100066: Extrusion 22
+    100068: Extrusion 23
+    100070: Extrusion 24
+    100072: Extrusion 25
+    100074: Extrusion 26
+    100076: Extrusion 27
+    100078: Extrusion 28
+    100080: Extrusion 29
+    100082: Extrusion 3
+    100084: Extrusion 30
+    100086: Extrusion 31
+    100088: Extrusion 32
+    100090: Extrusion 33
+    100092: Extrusion 34
+    100094: Extrusion 35
+    100096: Extrusion 36
+    100098: Extrusion 37
+    100100: Extrusion 38
+    100102: Extrusion 4
+    100104: Extrusion 5
+    100106: Extrusion 6
+    100108: Extrusion 7
+    100110: Extrusion 8
+    100112: Extrusion 9
+    100114: View-Front
+    100116: View-Perspective
+    100118: View-Right
+    100120: View-Top
+    400000: //RootNode
+    400002: Brep
+    400004: Brep 1
+    400006: Brep 10
+    400008: Brep 11
+    400010: Brep 12
+    400012: Brep 13
+    400014: Brep 14
+    400016: Brep 15
+    400018: Brep 16
+    400020: Brep 2
+    400022: Brep 3
+    400024: Brep 4
+    400026: Brep 5
+    400028: Brep 6
+    400030: Brep 7
+    400032: Brep 8
+    400034: Brep 9
+    400036: Extrusion
+    400038: Extrusion 1
+    400040: Extrusion 10
+    400042: Extrusion 11
+    400044: Extrusion 12
+    400046: Extrusion 13
+    400048: Extrusion 14
+    400050: Extrusion 15
+    400052: Extrusion 16
+    400054: Extrusion 17
+    400056: Extrusion 18
+    400058: Extrusion 19
+    400060: Extrusion 2
+    400062: Extrusion 20
+    400064: Extrusion 21
+    400066: Extrusion 22
+    400068: Extrusion 23
+    400070: Extrusion 24
+    400072: Extrusion 25
+    400074: Extrusion 26
+    400076: Extrusion 27
+    400078: Extrusion 28
+    400080: Extrusion 29
+    400082: Extrusion 3
+    400084: Extrusion 30
+    400086: Extrusion 31
+    400088: Extrusion 32
+    400090: Extrusion 33
+    400092: Extrusion 34
+    400094: Extrusion 35
+    400096: Extrusion 36
+    400098: Extrusion 37
+    400100: Extrusion 38
+    400102: Extrusion 4
+    400104: Extrusion 5
+    400106: Extrusion 6
+    400108: Extrusion 7
+    400110: Extrusion 8
+    400112: Extrusion 9
+    400114: View-Front
+    400116: View-Perspective
+    400118: View-Right
+    400120: View-Top
+    2000000: View-Front
+    2000002: View-Perspective
+    2000004: View-Right
+    2000006: View-Top
+    2100000: a0000000-0000-0000-0000-000000000000
+    2300000: Brep
+    2300002: Brep 1
+    2300004: Brep 10
+    2300006: Brep 11
+    2300008: Brep 12
+    2300010: Brep 13
+    2300012: Brep 14
+    2300014: Brep 15
+    2300016: Brep 16
+    2300018: Brep 2
+    2300020: Brep 3
+    2300022: Brep 4
+    2300024: Brep 5
+    2300026: Brep 6
+    2300028: Brep 7
+    2300030: Brep 8
+    2300032: Brep 9
+    2300034: Extrusion
+    2300036: Extrusion 1
+    2300038: Extrusion 10
+    2300040: Extrusion 11
+    2300042: Extrusion 12
+    2300044: Extrusion 13
+    2300046: Extrusion 14
+    2300048: Extrusion 15
+    2300050: Extrusion 16
+    2300052: Extrusion 17
+    2300054: Extrusion 18
+    2300056: Extrusion 19
+    2300058: Extrusion 2
+    2300060: Extrusion 20
+    2300062: Extrusion 21
+    2300064: Extrusion 22
+    2300066: Extrusion 23
+    2300068: Extrusion 24
+    2300070: Extrusion 25
+    2300072: Extrusion 26
+    2300074: Extrusion 27
+    2300076: Extrusion 28
+    2300078: Extrusion 29
+    2300080: Extrusion 3
+    2300082: Extrusion 30
+    2300084: Extrusion 31
+    2300086: Extrusion 32
+    2300088: Extrusion 33
+    2300090: Extrusion 34
+    2300092: Extrusion 35
+    2300094: Extrusion 36
+    2300096: Extrusion 37
+    2300098: Extrusion 38
+    2300100: Extrusion 4
+    2300102: Extrusion 5
+    2300104: Extrusion 6
+    2300106: Extrusion 7
+    2300108: Extrusion 8
+    2300110: Extrusion 9
+    3300000: Brep
+    3300002: Brep 1
+    3300004: Brep 10
+    3300006: Brep 11
+    3300008: Brep 12
+    3300010: Brep 13
+    3300012: Brep 14
+    3300014: Brep 15
+    3300016: Brep 16
+    3300018: Brep 2
+    3300020: Brep 3
+    3300022: Brep 4
+    3300024: Brep 5
+    3300026: Brep 6
+    3300028: Brep 7
+    3300030: Brep 8
+    3300032: Brep 9
+    3300034: Extrusion
+    3300036: Extrusion 1
+    3300038: Extrusion 10
+    3300040: Extrusion 11
+    3300042: Extrusion 12
+    3300044: Extrusion 13
+    3300046: Extrusion 14
+    3300048: Extrusion 15
+    3300050: Extrusion 16
+    3300052: Extrusion 17
+    3300054: Extrusion 18
+    3300056: Extrusion 19
+    3300058: Extrusion 2
+    3300060: Extrusion 20
+    3300062: Extrusion 21
+    3300064: Extrusion 22
+    3300066: Extrusion 23
+    3300068: Extrusion 24
+    3300070: Extrusion 25
+    3300072: Extrusion 26
+    3300074: Extrusion 27
+    3300076: Extrusion 28
+    3300078: Extrusion 29
+    3300080: Extrusion 3
+    3300082: Extrusion 30
+    3300084: Extrusion 31
+    3300086: Extrusion 32
+    3300088: Extrusion 33
+    3300090: Extrusion 34
+    3300092: Extrusion 35
+    3300094: Extrusion 36
+    3300096: Extrusion 37
+    3300098: Extrusion 38
+    3300100: Extrusion 4
+    3300102: Extrusion 5
+    3300104: Extrusion 6
+    3300106: Extrusion 7
+    3300108: Extrusion 8
+    3300110: Extrusion 9
+    4300000: Extrusion
+    4300002: Extrusion
+    4300004: Extrusion
+    4300006: Extrusion
+    4300008: Extrusion
+    4300010: Extrusion
+    4300012: Extrusion
+    4300014: Extrusion
+    4300016: Extrusion
+    4300018: Extrusion
+    4300020: Extrusion
+    4300022: Extrusion
+    4300024: Extrusion
+    4300026: Extrusion
+    4300028: Extrusion
+    4300030: Extrusion
+    4300032: Extrusion
+    4300034: Extrusion
+    4300036: Extrusion
+    4300038: Extrusion
+    4300040: Extrusion
+    4300042: Extrusion
+    4300044: Extrusion
+    4300046: Extrusion
+    4300048: Extrusion
+    4300050: Extrusion
+    4300052: Extrusion
+    4300054: Extrusion
+    4300056: Extrusion
+    4300058: Extrusion
+    4300060: Extrusion
+    4300062: Extrusion
+    4300064: Extrusion
+    4300066: Extrusion
+    4300068: Extrusion
+    4300070: Extrusion
+    4300072: Extrusion
+    4300074: Extrusion
+    4300076: Extrusion
+    4300078: Brep
+    4300080: Brep
+    4300082: Brep
+    4300084: Brep
+    4300086: Brep
+    4300088: Brep
+    4300090: Brep
+    4300092: Brep
+    4300094: Brep
+    4300096: Brep
+    4300098: Brep
+    4300100: Brep
+    4300102: Brep
+    4300104: Brep
+    4300106: Brep
+    4300108: Brep
+    4300110: Brep
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,921 @@
+fileFormatVersion: 2
+guid: 4946fc37b80693d4cbbcf5148b489109
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Brep
+    100004: Brep 1
+    100006: Brep 10
+    100008: Brep 100
+    100010: Brep 101
+    100012: Brep 102
+    100014: Brep 103
+    100016: Brep 104
+    100018: Brep 105
+    100020: Brep 106
+    100022: Brep 107
+    100024: Brep 108
+    100026: Brep 109
+    100028: Brep 11
+    100030: Brep 110
+    100032: Brep 111
+    100034: Brep 112
+    100036: Brep 113
+    100038: Brep 114
+    100040: Brep 115
+    100042: Brep 116
+    100044: Brep 117
+    100046: Brep 118
+    100048: Brep 119
+    100050: Brep 12
+    100052: Brep 120
+    100054: Brep 121
+    100056: Brep 122
+    100058: Brep 123
+    100060: Brep 124
+    100062: Brep 125
+    100064: Brep 126
+    100066: Brep 127
+    100068: Brep 128
+    100070: Brep 129
+    100072: Brep 13
+    100074: Brep 130
+    100076: Brep 131
+    100078: Brep 132
+    100080: Brep 133
+    100082: Brep 134
+    100084: Brep 135
+    100086: Brep 136
+    100088: Brep 137
+    100090: Brep 138
+    100092: Brep 139
+    100094: Brep 14
+    100096: Brep 140
+    100098: Brep 141
+    100100: Brep 142
+    100102: Brep 143
+    100104: Brep 144
+    100106: Brep 145
+    100108: Brep 146
+    100110: Brep 147
+    100112: Brep 148
+    100114: Brep 149
+    100116: Brep 15
+    100118: Brep 150
+    100120: Brep 151
+    100122: Brep 152
+    100124: Brep 153
+    100126: Brep 154
+    100128: Brep 155
+    100130: Brep 156
+    100132: Brep 157
+    100134: Brep 158
+    100136: Brep 159
+    100138: Brep 16
+    100140: Brep 160
+    100142: Brep 161
+    100144: Brep 162
+    100146: Brep 17
+    100148: Brep 18
+    100150: Brep 19
+    100152: Brep 2
+    100154: Brep 20
+    100156: Brep 21
+    100158: Brep 22
+    100160: Brep 23
+    100162: Brep 24
+    100164: Brep 25
+    100166: Brep 26
+    100168: Brep 27
+    100170: Brep 28
+    100172: Brep 29
+    100174: Brep 3
+    100176: Brep 30
+    100178: Brep 31
+    100180: Brep 32
+    100182: Brep 33
+    100184: Brep 34
+    100186: Brep 35
+    100188: Brep 36
+    100190: Brep 37
+    100192: Brep 38
+    100194: Brep 39
+    100196: Brep 4
+    100198: Brep 40
+    100200: Brep 41
+    100202: Brep 42
+    100204: Brep 43
+    100206: Brep 44
+    100208: Brep 45
+    100210: Brep 46
+    100212: Brep 47
+    100214: Brep 48
+    100216: Brep 49
+    100218: Brep 5
+    100220: Brep 50
+    100222: Brep 51
+    100224: Brep 52
+    100226: Brep 53
+    100228: Brep 54
+    100230: Brep 55
+    100232: Brep 56
+    100234: Brep 57
+    100236: Brep 58
+    100238: Brep 59
+    100240: Brep 6
+    100242: Brep 60
+    100244: Brep 61
+    100246: Brep 62
+    100248: Brep 63
+    100250: Brep 64
+    100252: Brep 65
+    100254: Brep 66
+    100256: Brep 67
+    100258: Brep 68
+    100260: Brep 69
+    100262: Brep 7
+    100264: Brep 70
+    100266: Brep 71
+    100268: Brep 72
+    100270: Brep 73
+    100272: Brep 74
+    100274: Brep 75
+    100276: Brep 76
+    100278: Brep 77
+    100280: Brep 78
+    100282: Brep 79
+    100284: Brep 8
+    100286: Brep 80
+    100288: Brep 81
+    100290: Brep 82
+    100292: Brep 83
+    100294: Brep 84
+    100296: Brep 85
+    100298: Brep 86
+    100300: Brep 87
+    100302: Brep 88
+    100304: Brep 89
+    100306: Brep 9
+    100308: Brep 90
+    100310: Brep 91
+    100312: Brep 92
+    100314: Brep 93
+    100316: Brep 94
+    100318: Brep 95
+    100320: Brep 96
+    100322: Brep 97
+    100324: Brep 98
+    100326: Brep 99
+    100328: View-Front
+    100330: View-Perspective
+    100332: View-Right
+    100334: View-Top
+    400000: //RootNode
+    400002: Brep
+    400004: Brep 1
+    400006: Brep 10
+    400008: Brep 100
+    400010: Brep 101
+    400012: Brep 102
+    400014: Brep 103
+    400016: Brep 104
+    400018: Brep 105
+    400020: Brep 106
+    400022: Brep 107
+    400024: Brep 108
+    400026: Brep 109
+    400028: Brep 11
+    400030: Brep 110
+    400032: Brep 111
+    400034: Brep 112
+    400036: Brep 113
+    400038: Brep 114
+    400040: Brep 115
+    400042: Brep 116
+    400044: Brep 117
+    400046: Brep 118
+    400048: Brep 119
+    400050: Brep 12
+    400052: Brep 120
+    400054: Brep 121
+    400056: Brep 122
+    400058: Brep 123
+    400060: Brep 124
+    400062: Brep 125
+    400064: Brep 126
+    400066: Brep 127
+    400068: Brep 128
+    400070: Brep 129
+    400072: Brep 13
+    400074: Brep 130
+    400076: Brep 131
+    400078: Brep 132
+    400080: Brep 133
+    400082: Brep 134
+    400084: Brep 135
+    400086: Brep 136
+    400088: Brep 137
+    400090: Brep 138
+    400092: Brep 139
+    400094: Brep 14
+    400096: Brep 140
+    400098: Brep 141
+    400100: Brep 142
+    400102: Brep 143
+    400104: Brep 144
+    400106: Brep 145
+    400108: Brep 146
+    400110: Brep 147
+    400112: Brep 148
+    400114: Brep 149
+    400116: Brep 15
+    400118: Brep 150
+    400120: Brep 151
+    400122: Brep 152
+    400124: Brep 153
+    400126: Brep 154
+    400128: Brep 155
+    400130: Brep 156
+    400132: Brep 157
+    400134: Brep 158
+    400136: Brep 159
+    400138: Brep 16
+    400140: Brep 160
+    400142: Brep 161
+    400144: Brep 162
+    400146: Brep 17
+    400148: Brep 18
+    400150: Brep 19
+    400152: Brep 2
+    400154: Brep 20
+    400156: Brep 21
+    400158: Brep 22
+    400160: Brep 23
+    400162: Brep 24
+    400164: Brep 25
+    400166: Brep 26
+    400168: Brep 27
+    400170: Brep 28
+    400172: Brep 29
+    400174: Brep 3
+    400176: Brep 30
+    400178: Brep 31
+    400180: Brep 32
+    400182: Brep 33
+    400184: Brep 34
+    400186: Brep 35
+    400188: Brep 36
+    400190: Brep 37
+    400192: Brep 38
+    400194: Brep 39
+    400196: Brep 4
+    400198: Brep 40
+    400200: Brep 41
+    400202: Brep 42
+    400204: Brep 43
+    400206: Brep 44
+    400208: Brep 45
+    400210: Brep 46
+    400212: Brep 47
+    400214: Brep 48
+    400216: Brep 49
+    400218: Brep 5
+    400220: Brep 50
+    400222: Brep 51
+    400224: Brep 52
+    400226: Brep 53
+    400228: Brep 54
+    400230: Brep 55
+    400232: Brep 56
+    400234: Brep 57
+    400236: Brep 58
+    400238: Brep 59
+    400240: Brep 6
+    400242: Brep 60
+    400244: Brep 61
+    400246: Brep 62
+    400248: Brep 63
+    400250: Brep 64
+    400252: Brep 65
+    400254: Brep 66
+    400256: Brep 67
+    400258: Brep 68
+    400260: Brep 69
+    400262: Brep 7
+    400264: Brep 70
+    400266: Brep 71
+    400268: Brep 72
+    400270: Brep 73
+    400272: Brep 74
+    400274: Brep 75
+    400276: Brep 76
+    400278: Brep 77
+    400280: Brep 78
+    400282: Brep 79
+    400284: Brep 8
+    400286: Brep 80
+    400288: Brep 81
+    400290: Brep 82
+    400292: Brep 83
+    400294: Brep 84
+    400296: Brep 85
+    400298: Brep 86
+    400300: Brep 87
+    400302: Brep 88
+    400304: Brep 89
+    400306: Brep 9
+    400308: Brep 90
+    400310: Brep 91
+    400312: Brep 92
+    400314: Brep 93
+    400316: Brep 94
+    400318: Brep 95
+    400320: Brep 96
+    400322: Brep 97
+    400324: Brep 98
+    400326: Brep 99
+    400328: View-Front
+    400330: View-Perspective
+    400332: View-Right
+    400334: View-Top
+    2000000: View-Front
+    2000002: View-Perspective
+    2000004: View-Right
+    2000006: View-Top
+    2100000: a0000000-0000-0000-0000-000000000000
+    2300000: Brep
+    2300002: Brep 1
+    2300004: Brep 10
+    2300006: Brep 100
+    2300008: Brep 101
+    2300010: Brep 102
+    2300012: Brep 103
+    2300014: Brep 104
+    2300016: Brep 105
+    2300018: Brep 106
+    2300020: Brep 107
+    2300022: Brep 108
+    2300024: Brep 109
+    2300026: Brep 11
+    2300028: Brep 110
+    2300030: Brep 111
+    2300032: Brep 112
+    2300034: Brep 113
+    2300036: Brep 114
+    2300038: Brep 115
+    2300040: Brep 116
+    2300042: Brep 117
+    2300044: Brep 118
+    2300046: Brep 119
+    2300048: Brep 12
+    2300050: Brep 120
+    2300052: Brep 121
+    2300054: Brep 122
+    2300056: Brep 123
+    2300058: Brep 124
+    2300060: Brep 125
+    2300062: Brep 126
+    2300064: Brep 127
+    2300066: Brep 128
+    2300068: Brep 129
+    2300070: Brep 13
+    2300072: Brep 130
+    2300074: Brep 131
+    2300076: Brep 132
+    2300078: Brep 133
+    2300080: Brep 134
+    2300082: Brep 135
+    2300084: Brep 136
+    2300086: Brep 137
+    2300088: Brep 138
+    2300090: Brep 139
+    2300092: Brep 14
+    2300094: Brep 140
+    2300096: Brep 141
+    2300098: Brep 142
+    2300100: Brep 143
+    2300102: Brep 144
+    2300104: Brep 145
+    2300106: Brep 146
+    2300108: Brep 147
+    2300110: Brep 148
+    2300112: Brep 149
+    2300114: Brep 15
+    2300116: Brep 150
+    2300118: Brep 151
+    2300120: Brep 152
+    2300122: Brep 153
+    2300124: Brep 154
+    2300126: Brep 155
+    2300128: Brep 156
+    2300130: Brep 157
+    2300132: Brep 158
+    2300134: Brep 159
+    2300136: Brep 16
+    2300138: Brep 160
+    2300140: Brep 161
+    2300142: Brep 162
+    2300144: Brep 17
+    2300146: Brep 18
+    2300148: Brep 19
+    2300150: Brep 2
+    2300152: Brep 20
+    2300154: Brep 21
+    2300156: Brep 22
+    2300158: Brep 23
+    2300160: Brep 24
+    2300162: Brep 25
+    2300164: Brep 26
+    2300166: Brep 27
+    2300168: Brep 28
+    2300170: Brep 29
+    2300172: Brep 3
+    2300174: Brep 30
+    2300176: Brep 31
+    2300178: Brep 32
+    2300180: Brep 33
+    2300182: Brep 34
+    2300184: Brep 35
+    2300186: Brep 36
+    2300188: Brep 37
+    2300190: Brep 38
+    2300192: Brep 39
+    2300194: Brep 4
+    2300196: Brep 40
+    2300198: Brep 41
+    2300200: Brep 42
+    2300202: Brep 43
+    2300204: Brep 44
+    2300206: Brep 45
+    2300208: Brep 46
+    2300210: Brep 47
+    2300212: Brep 48
+    2300214: Brep 49
+    2300216: Brep 5
+    2300218: Brep 50
+    2300220: Brep 51
+    2300222: Brep 52
+    2300224: Brep 53
+    2300226: Brep 54
+    2300228: Brep 55
+    2300230: Brep 56
+    2300232: Brep 57
+    2300234: Brep 58
+    2300236: Brep 59
+    2300238: Brep 6
+    2300240: Brep 60
+    2300242: Brep 61
+    2300244: Brep 62
+    2300246: Brep 63
+    2300248: Brep 64
+    2300250: Brep 65
+    2300252: Brep 66
+    2300254: Brep 67
+    2300256: Brep 68
+    2300258: Brep 69
+    2300260: Brep 7
+    2300262: Brep 70
+    2300264: Brep 71
+    2300266: Brep 72
+    2300268: Brep 73
+    2300270: Brep 74
+    2300272: Brep 75
+    2300274: Brep 76
+    2300276: Brep 77
+    2300278: Brep 78
+    2300280: Brep 79
+    2300282: Brep 8
+    2300284: Brep 80
+    2300286: Brep 81
+    2300288: Brep 82
+    2300290: Brep 83
+    2300292: Brep 84
+    2300294: Brep 85
+    2300296: Brep 86
+    2300298: Brep 87
+    2300300: Brep 88
+    2300302: Brep 89
+    2300304: Brep 9
+    2300306: Brep 90
+    2300308: Brep 91
+    2300310: Brep 92
+    2300312: Brep 93
+    2300314: Brep 94
+    2300316: Brep 95
+    2300318: Brep 96
+    2300320: Brep 97
+    2300322: Brep 98
+    2300324: Brep 99
+    3300000: Brep
+    3300002: Brep 1
+    3300004: Brep 10
+    3300006: Brep 100
+    3300008: Brep 101
+    3300010: Brep 102
+    3300012: Brep 103
+    3300014: Brep 104
+    3300016: Brep 105
+    3300018: Brep 106
+    3300020: Brep 107
+    3300022: Brep 108
+    3300024: Brep 109
+    3300026: Brep 11
+    3300028: Brep 110
+    3300030: Brep 111
+    3300032: Brep 112
+    3300034: Brep 113
+    3300036: Brep 114
+    3300038: Brep 115
+    3300040: Brep 116
+    3300042: Brep 117
+    3300044: Brep 118
+    3300046: Brep 119
+    3300048: Brep 12
+    3300050: Brep 120
+    3300052: Brep 121
+    3300054: Brep 122
+    3300056: Brep 123
+    3300058: Brep 124
+    3300060: Brep 125
+    3300062: Brep 126
+    3300064: Brep 127
+    3300066: Brep 128
+    3300068: Brep 129
+    3300070: Brep 13
+    3300072: Brep 130
+    3300074: Brep 131
+    3300076: Brep 132
+    3300078: Brep 133
+    3300080: Brep 134
+    3300082: Brep 135
+    3300084: Brep 136
+    3300086: Brep 137
+    3300088: Brep 138
+    3300090: Brep 139
+    3300092: Brep 14
+    3300094: Brep 140
+    3300096: Brep 141
+    3300098: Brep 142
+    3300100: Brep 143
+    3300102: Brep 144
+    3300104: Brep 145
+    3300106: Brep 146
+    3300108: Brep 147
+    3300110: Brep 148
+    3300112: Brep 149
+    3300114: Brep 15
+    3300116: Brep 150
+    3300118: Brep 151
+    3300120: Brep 152
+    3300122: Brep 153
+    3300124: Brep 154
+    3300126: Brep 155
+    3300128: Brep 156
+    3300130: Brep 157
+    3300132: Brep 158
+    3300134: Brep 159
+    3300136: Brep 16
+    3300138: Brep 160
+    3300140: Brep 161
+    3300142: Brep 162
+    3300144: Brep 17
+    3300146: Brep 18
+    3300148: Brep 19
+    3300150: Brep 2
+    3300152: Brep 20
+    3300154: Brep 21
+    3300156: Brep 22
+    3300158: Brep 23
+    3300160: Brep 24
+    3300162: Brep 25
+    3300164: Brep 26
+    3300166: Brep 27
+    3300168: Brep 28
+    3300170: Brep 29
+    3300172: Brep 3
+    3300174: Brep 30
+    3300176: Brep 31
+    3300178: Brep 32
+    3300180: Brep 33
+    3300182: Brep 34
+    3300184: Brep 35
+    3300186: Brep 36
+    3300188: Brep 37
+    3300190: Brep 38
+    3300192: Brep 39
+    3300194: Brep 4
+    3300196: Brep 40
+    3300198: Brep 41
+    3300200: Brep 42
+    3300202: Brep 43
+    3300204: Brep 44
+    3300206: Brep 45
+    3300208: Brep 46
+    3300210: Brep 47
+    3300212: Brep 48
+    3300214: Brep 49
+    3300216: Brep 5
+    3300218: Brep 50
+    3300220: Brep 51
+    3300222: Brep 52
+    3300224: Brep 53
+    3300226: Brep 54
+    3300228: Brep 55
+    3300230: Brep 56
+    3300232: Brep 57
+    3300234: Brep 58
+    3300236: Brep 59
+    3300238: Brep 6
+    3300240: Brep 60
+    3300242: Brep 61
+    3300244: Brep 62
+    3300246: Brep 63
+    3300248: Brep 64
+    3300250: Brep 65
+    3300252: Brep 66
+    3300254: Brep 67
+    3300256: Brep 68
+    3300258: Brep 69
+    3300260: Brep 7
+    3300262: Brep 70
+    3300264: Brep 71
+    3300266: Brep 72
+    3300268: Brep 73
+    3300270: Brep 74
+    3300272: Brep 75
+    3300274: Brep 76
+    3300276: Brep 77
+    3300278: Brep 78
+    3300280: Brep 79
+    3300282: Brep 8
+    3300284: Brep 80
+    3300286: Brep 81
+    3300288: Brep 82
+    3300290: Brep 83
+    3300292: Brep 84
+    3300294: Brep 85
+    3300296: Brep 86
+    3300298: Brep 87
+    3300300: Brep 88
+    3300302: Brep 89
+    3300304: Brep 9
+    3300306: Brep 90
+    3300308: Brep 91
+    3300310: Brep 92
+    3300312: Brep 93
+    3300314: Brep 94
+    3300316: Brep 95
+    3300318: Brep 96
+    3300320: Brep 97
+    3300322: Brep 98
+    3300324: Brep 99
+    4300000: Brep
+    4300002: Brep
+    4300004: Brep
+    4300006: Brep
+    4300008: Brep
+    4300010: Brep
+    4300012: Brep
+    4300014: Brep
+    4300016: Brep
+    4300018: Brep
+    4300020: Brep
+    4300022: Brep
+    4300024: Brep
+    4300026: Brep
+    4300028: Brep
+    4300030: Brep
+    4300032: Brep
+    4300034: Brep
+    4300036: Brep
+    4300038: Brep
+    4300040: Brep
+    4300042: Brep
+    4300044: Brep
+    4300046: Brep
+    4300048: Brep
+    4300050: Brep
+    4300052: Brep
+    4300054: Brep
+    4300056: Brep
+    4300058: Brep
+    4300060: Brep
+    4300062: Brep
+    4300064: Brep
+    4300066: Brep
+    4300068: Brep
+    4300070: Brep
+    4300072: Brep
+    4300074: Brep
+    4300076: Brep
+    4300078: Brep
+    4300080: Brep
+    4300082: Brep
+    4300084: Brep
+    4300086: Brep
+    4300088: Brep
+    4300090: Brep
+    4300092: Brep
+    4300094: Brep
+    4300096: Brep
+    4300098: Brep
+    4300100: Brep
+    4300102: Brep
+    4300104: Brep
+    4300106: Brep
+    4300108: Brep
+    4300110: Brep
+    4300112: Brep
+    4300114: Brep
+    4300116: Brep
+    4300118: Brep
+    4300120: Brep
+    4300122: Brep
+    4300124: Brep
+    4300126: Brep
+    4300128: Brep
+    4300130: Brep
+    4300132: Brep
+    4300134: Brep
+    4300136: Brep
+    4300138: Brep
+    4300140: Brep
+    4300142: Brep
+    4300144: Brep
+    4300146: Brep
+    4300148: Brep
+    4300150: Brep
+    4300152: Brep
+    4300154: Brep
+    4300156: Brep
+    4300158: Brep
+    4300160: Brep
+    4300162: Brep
+    4300164: Brep
+    4300166: Brep
+    4300168: Brep
+    4300170: Brep
+    4300172: Brep
+    4300174: Brep
+    4300176: Brep
+    4300178: Brep
+    4300180: Brep
+    4300182: Brep
+    4300184: Brep
+    4300186: Brep
+    4300188: Brep
+    4300190: Brep
+    4300192: Brep
+    4300194: Brep
+    4300196: Brep
+    4300198: Brep
+    4300200: Brep
+    4300202: Brep
+    4300204: Brep
+    4300206: Brep
+    4300208: Brep
+    4300210: Brep
+    4300212: Brep
+    4300214: Brep
+    4300216: Brep
+    4300218: Brep
+    4300220: Brep
+    4300222: Brep
+    4300224: Brep
+    4300226: Brep
+    4300228: Brep
+    4300230: Brep
+    4300232: Brep
+    4300234: Brep
+    4300236: Brep
+    4300238: Brep
+    4300240: Brep
+    4300242: Brep
+    4300244: Brep
+    4300246: Brep
+    4300248: Brep
+    4300250: Brep
+    4300252: Brep
+    4300254: Brep
+    4300256: Brep
+    4300258: Brep
+    4300260: Brep
+    4300262: Brep
+    4300264: Brep
+    4300266: Brep
+    4300268: Brep
+    4300270: Brep
+    4300272: Brep
+    4300274: Brep
+    4300276: Brep
+    4300278: Brep
+    4300280: Brep
+    4300282: Brep
+    4300284: Brep
+    4300286: Brep
+    4300288: Brep
+    4300290: Brep
+    4300292: Brep
+    4300294: Brep
+    4300296: Brep
+    4300298: Brep
+    4300300: Brep
+    4300302: Brep
+    4300304: Brep
+    4300306: Brep
+    4300308: Brep
+    4300310: Brep
+    4300312: Brep
+    4300314: Brep
+    4300316: Brep
+    4300318: Brep
+    4300320: Brep
+    4300322: Brep
+    4300324: Brep
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
